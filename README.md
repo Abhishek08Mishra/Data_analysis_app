@@ -65,6 +65,11 @@ Yes please! Here's how:
 4. Push to the branch (`git push origin cool-feature`)
 5. Start a Pull Request
 
+## 🪪 License
+
+This project is licensed under the [MIT License](./LICENSE).  
+For more details, click the link to view the full text of the license.
+
 ## 📬 Get in Touch
 
 Got questions? Reach out!
