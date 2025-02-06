@@ -15,7 +15,7 @@ Turn your data into insights with just a few clicks! A powerful yet simple data 
 
 ```bash
 # Clone the magic
-git clone https://github.com/Abhishek08Mishra/data-analysis-dashboard.git
+git clone https://github.com/Abhishek08Mishra/Data_analysis_app.git
 
 # Install the power-ups
 pip install -r requirements.txt
