@@ -86,4 +86,4 @@ If this tool helps you, show some love by giving it a star! ⭐
 
 ---
 Made with ❤️ by [Abhishek Mishra]
-## my app link : [(https://dataanalysisapp-paejdyvctqp7xelqciyqcq.streamlit.app/)]
+## my app link : [(https://dataanalysisapp-abhishek-mishra.streamlit.app)]
